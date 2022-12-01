@@ -1,3 +1,6 @@
+## New Implementation
+A new implementation can be found in [USTC_DIA-Levelset_method](https://github.com/Sapphire-356/USTC_DIA-Levelset_method).
+
 ## Level Set Evolution Without Re-initialization Implementation
 
 #### 新的代码包括三项：
